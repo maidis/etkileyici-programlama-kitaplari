@@ -81,7 +81,7 @@
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) by Peter Norvig (free ebook)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
 81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) by Andy Hunt and Dave Thomas
-82. [Nasıl çözmeli? Matematikte Yeni Bir Boyut](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) - George Polya - Sistem Yayıncılık - Yeni baskısı yok, üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor
+82. [Nasıl çözmeli? Matematikte Yeni Bir Boyut](https://www.nadirkitap.com/nasil-cozmeli-matematikte-yeni-bir-boyut-george-polya-kitap4725552.html) - George Polya - Sistem Yayıncılık - Yeni baskısı yok, üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor
 83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) by Adele Goldberg 
 84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) by Michael Howard
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
