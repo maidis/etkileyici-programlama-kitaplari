@@ -106,7 +106,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 72. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
 73. [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
 74. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
-75. [The Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html) by Lao-tzu
+75. [Tao Te Ching](http://www.dr.com.tr/kitap/tao-te-ching/lao-tzu/felsefe/bilgelik/urunno=0000000427540?gclid=CK7ljLn0i8MCFcPMtAod9RQA6Q) - Lao-tzu - Notos - Kitabın [çevrimiçi farklı bir sürümü](http://minus.idiot.googlepages.com/tao_turkce.html) de mevcut
 76. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
 77. [The Art of Deception](http://www.amazon.com/exec/obidos/tg/detail/-/0764569597) by Kevin Mitnick
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) by Christopher Duncan
