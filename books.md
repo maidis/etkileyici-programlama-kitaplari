@@ -3,7 +3,7 @@
 1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
-4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
+4. [C Programlama Dili](http://www.kitapyurdu.com/kitap/default.asp?id=630879) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
 5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
