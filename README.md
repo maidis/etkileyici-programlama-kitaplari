@@ -100,7 +100,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 66. [Zen and the Art of Motorcycle Maintenance](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) by Robert M. Pirsig
 67. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
 68. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
-69. [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html) by Geoffrey James (free ebook)
+69. [Programlamanın Taosu](http://www.halitalptekin.com/programlamanin-taosu.html) - Geoffrey James - Emre Sevinç (İleri Seviye)
 70. [Computational Beauty of Nature](https://mitpress.mit.edu/books/computational-beauty-nature) by Gary William Flake
 71. [Philip and Alex's Guide to Web Publishing](http://philip.greenspun.com/panda/) (free ebook)
 72. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
