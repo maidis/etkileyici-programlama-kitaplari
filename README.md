@@ -42,7 +42,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
 9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) by Donald Knuth
 10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
-11. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter
+11. [Gödel, Escher, Bach - Bir Ebedi Gökçe Belik (Lewis Carroll'ın İzinde Zihinlere ve Makinelere Dair Metaforik Bir Füg)](http://www.idefix.com/kitap/godel-escher-bach-bir-ebedi-gokce-belik-douglas-r-hofstadter/tanim.asp?sid=SKTC3J8QHE3E6J3S7C1K) - Douglas Hofstadter - Pinhan Yayıncılık
 12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 13. [Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 14. [More Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
