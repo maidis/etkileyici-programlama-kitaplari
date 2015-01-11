@@ -93,11 +93,11 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 59. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) by Brad Abrams
 60. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) by Dr. David West
 61. [Advanced Programming in the UNIX Environment](http://www.cs.stevens.edu/~jschauma/810D/) by W. Richard Stevens
-62. [Hackers and Painters: Big Ideas from the Computer Age](http://www.paulgraham.com/hackpaint.html) by Paul Graham
+62. [Hackers & Painters : Bilgisayar Çağından Büyük Fikirler](http://www.idefix.com/kitap/hackers-ve-painters-paul-graham/tanim.asp?sid=Q5CP58PRIP7PZ2EWQ9LM) - Paul Graham - ODTÜ Geliştirme Vakfı
 63. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
 64. [CLR via C#](http://shop.oreilly.com/product/9780735627048.do) by Jeffrey Richter
 65. [Design Patterns in C#](http://www.amazon.com/Design-Patterns-C-Software/dp/0321718933) by Steve Metsker
-66. [Zen and the Art of Motorcycle Maintenance](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) by Robert M. Pirsig
+66. [Zen ve Motosiklet Bakım Sanatı - Değerlerin Sorgulanması](http://www.idefix.com/kitap/zen-ve-motosiklet-bakim-sanati-degerlerin-sorgulanmasi-robert-m-pirsig/tanim.asp?sid=Q7THSRLNVZ4TKWIZMYCA) - Robert M. Pirsig - Ayrıntı Yayınları
 67. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
 68. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
 69. [Programlamanın Taosu](http://www.halitalptekin.com/programlamanin-taosu.html) - Geoffrey James - Emre Sevinç (İleri Seviye)
