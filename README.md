@@ -1,19 +1,19 @@
-# Most influential books for programmers
+# Programcılar için en etkileyici kitaplar
 
-These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
+Burada, StackOverflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için chhantyal'ın [influential-programming-books](https://github.com/chhantyal/influential-programming-books) projesine bakabilirsiniz.
 
-Click on `books.md` file or [go to list of the books](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
+`books.md` dosyasını açın veya doğrudan [kitap listesine gidin](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
 
-## Why on Github?
+## Neden Github'da böyle bir proje?
 
-Cause SO is cathedral, Github is bazzar ;)
+Çünkü SO katedral, GitHub ise pazar ;)
 
-Long answer: I frequently visit above thread. Over the time, such an active thread is closed, links to book sites are removed and I have to copy/paste/search everytime I go there. I am afraid they might remove it entirely.
+Uzun cevap: Sık sık yukarıdaki listenin olduğu sayfayı ziyaret ediyordum. Zamanla böyle aktif bir konu kapatıldı, kitap listelerine verilen bağlantılar silindi ve her seferinde kopyalama/yapıştırma/arama yapmak zorunda kaldım. Korkarım listeyi tamamen de kaldırabilirler.
 
-So, the list is preserved here :)
+Bu yüzden listeyi burada koruyorum :)
 
 
-## Contribute ❤ ❤
+## Katkıda bulunun ❤ ❤
 
 Any book which is significantly influential can be added or one which seems not so can be removed. I have tried to put official book site, link to electronic version, and finally Amazon page if both don't exist. Please add an issue in case links are not working or are not official. 
 
@@ -22,10 +22,10 @@ User contribution is under Creative Commons Attribution 3.0 Unported License.
 Feel free to send PR :)
 
 
-## Original thread
+## Orijinal konu
 
-What is the single most influential book every programmer should read?
+Sizce her programcının okuması gereken en etkili tek kitap hangisidir?
 
-If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
+Eğer zamanda geriye gidebilseydiniz ve kendinize kariyerinizin başında spesifik bir kitap okumanızı tavsiye etseydiniz, bu hangi kitap olurdu?
 
-I expect this list to be varied and to cover a wide range of things.
+Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayacağını düşünüyorum.
