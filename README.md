@@ -51,7 +51,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
 19. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
-20. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
+20. [Eminim Şaka Yapıyorsunuz Bay Feynman - Meraklı Bir Şahsiyetin Maceraları](http://www.kitapyurdu.com/kitap/default.asp?id=638286) - Richard Feynman - Alfa Yayınları
 21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
 23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) by Matthias Felleisen and Daniel P. Friedman
