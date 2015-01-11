@@ -71,7 +71,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 37. [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/press_releases/pragmatic-thinking-and-learning-refactor-your-wetware) by Andy Hunt
 38. [Software Estimation: Demystifying the Black Art](http://www.stevemcconnell.com/est.htm) by Steve McConnel
 39. [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer) by Chad Fowler
-40. [Hackers: Heroes of the Computer Revolution](http://www.gutenberg.org/ebooks/729) by  Steven Levy (free ebook)
+40. [Hackerlar (Bilgisayar Devriminin Kahramanları)](http://www.idefix.com/kitap/hackerlar-steven-levy/tanim.asp?sid=J01HQBV434V5FBJC6G7E) - Steven Levy - ODTÜ
 41. [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
 42. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
 43. [JavaScript - The Good Parts](http://javascript.crockford.com/) by Douglas Crockford
