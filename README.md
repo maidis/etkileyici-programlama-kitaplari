@@ -29,3 +29,7 @@ Sizce her programcının okuması gereken en etkili tek kitap hangisidir?
 Eğer zamanda geriye gidebilseydiniz ve kendinize kariyerinizin başında spesifik bir kitap okumanızı tavsiye etseydiniz, bu hangi kitap olurdu?
 
 Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayacağını düşünüyorum.
+
+## Lisans
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/deed.tr or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
