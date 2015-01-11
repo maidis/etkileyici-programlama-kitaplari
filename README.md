@@ -1,11 +1,11 @@
 # Programcılar için en etkileyici kitaplar
 
-Burada, StackOverflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için chhantyal'ın [influential-programming-books](https://github.com/chhantyal/influential-programming-books) projesine bakabilirsiniz.
+Burada, Stack Overflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için [influential-programming-books](https://github.com/chhantyal/influential-programming-books) projesine bakabilirsiniz.
 
 
 ## Neden Github'da böyle bir proje?
 
-Çünkü SO katedral, GitHub ise pazar ;)
+Çünkü Stack Overflow katedral, GitHub ise pazar ;)
 
 Uzun cevap: Sık sık yukarıdaki listenin olduğu sayfayı ziyaret ediyordum. Zamanla böyle aktif bir konu kapatıldı, kitap listelerine verilen bağlantılar silindi ve her seferinde kopyalama/yapıştırma/arama yapmak zorunda kaldım. Korkarım listeyi tamamen de kaldırabilirler.
 
@@ -123,5 +123,5 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 
 ## Lisans
 
-This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
-To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/deed.tr or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+Bu çalışma Creative Commons Attribution 3.0 Yerelleştirilmemeiş Lisansı ile korunmaktadır. 
+Lisansın bir kopyasını görüntülemek için http://creativecommons.org/licenses/by/3.0/deed.tr veya http://ozgurlisanslar.org.tr/creative-commons/attribution-3-0-unported/ adresini ziyaret edebilir ya da Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA adresine mektup gönderebilirsiniz.
