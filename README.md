@@ -108,7 +108,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 74. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
 75. [Tao Te Ching](http://www.dr.com.tr/kitap/tao-te-ching/lao-tzu/felsefe/bilgelik/urunno=0000000427540?gclid=CK7ljLn0i8MCFcPMtAod9RQA6Q) - Lao-tzu - Notos - Kitabın [çevrimiçi farklı bir sürümü](http://minus.idiot.googlepages.com/tao_turkce.html) de mevcut
 76. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
-77. [The Art of Deception](http://www.amazon.com/exec/obidos/tg/detail/-/0764569597) by Kevin Mitnick
+77. [Aldatma Sanatı](http://www.dr.com.tr/kitap/aldatma-sanati/kevin-d-mitnick/egitim-basvuru/bilgisayar/urunno=0000000181325) - Kevin Mitnick - ODTÜ
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) by Christopher Duncan
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) by Peter Norvig (free ebook)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
