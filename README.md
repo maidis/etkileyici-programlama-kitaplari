@@ -2,7 +2,6 @@
 
 Burada, StackOverflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için chhantyal'ın [influential-programming-books](https://github.com/chhantyal/influential-programming-books) projesine bakabilirsiniz.
 
-`books.md` dosyasını açın veya doğrudan [kitap listesine gidin](https://github.com/chhantyal/influential-programming-books/blob/master/books.md)
 
 ## Neden Github'da böyle bir proje?
 
@@ -29,6 +28,7 @@ Sizce her programcının okuması gereken en etkili tek kitap hangisidir?
 Eğer zamanda geriye gidebilseydiniz ve kendinize kariyerinizin başında spesifik bir kitap okumanızı tavsiye etseydiniz, bu hangi kitap olurdu?
 
 Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayacağını düşünüyorum.
+
 
 ## Etkileyici Kitap Listesi
 
@@ -122,5 +122,6 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 
 
 ## Lisans
+
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/deed.tr or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
