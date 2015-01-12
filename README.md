@@ -14,11 +14,11 @@ Bu yüzden listeyi burada koruyorum :)
 
 ## Katkıda bulunun ❤ ❤
 
-Any book which is significantly influential can be added or one which seems not so can be removed. I have tried to put official book site, link to electronic version, and finally Amazon page if both don't exist. Please add an issue in case links are not working or are not official. 
+Etkileyici olan bütün kitaplar listeye eklenebilir, pek de etkileyii olmadığı görülen kitaplar da listeden kaldırılabilir. Bağlantı olarak kitabı almak isteyecek kişilerin hem kitabı kolayca satın alabilecekleri hem de kitap hakkında bilgi alabilecekleri bir site kullanmaya çalışıyorum. Eğer kitap henüz Türkçeye çevrilmemişse asıl projedeki bağlantıları bırakıyorum, bu da ya kitabın orijinal sitesi ya kitap ücretsizce internet üzerinden okunabilecek bir bağlantı ya da kitabın Amazon sayfası oluyor.
 
-User contribution is under Creative Commons Attribution 3.0 Unported License.
+Gözümden kaçan Türkçe kitapların listeye eklenmesini sağlayabilirsiniz, listeye kitap eklenmesi veya listeden kitap çıkarılması önerilerinde bulunabilirsiniz, lisansı izin veren kitapları Türkçeye çevirebilirsiniz, yayınevlerinin listedeki birkaç kitabı daha çevirmesi için faaliyetlerde bulunabilirsiniz...
 
-Feel free to send PR :)
+İletişim kurmaktan çekinmeyin :)
 
 
 ## Orijinal konu
@@ -30,7 +30,7 @@ Eğer zamanda geriye gidebilseydiniz ve kendinize kariyerinizin başında spesif
 Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayacağını düşünüyorum.
 
 
-## Etkileyici Kitap Listesi
+## Etkileyici Kitaplar Listesi
 
 1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
