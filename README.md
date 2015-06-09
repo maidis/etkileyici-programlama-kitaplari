@@ -14,7 +14,7 @@ Bu yüzden listeyi burada koruyorum :)
 
 ## Katkıda bulunun ❤ ❤
 
-Etkileyici olan bütün kitaplar listeye eklenebilir, pek de etkileyii olmadığı görülen kitaplar da listeden kaldırılabilir. Bağlantı olarak kitabı almak isteyecek kişilerin hem kitabı kolayca satın alabilecekleri hem de kitap hakkında bilgi alabilecekleri bir site kullanmaya çalışıyorum. Eğer kitap henüz Türkçeye çevrilmemişse asıl projedeki bağlantıları bırakıyorum, bu da ya kitabın orijinal sitesi ya kitap ücretsizce internet üzerinden okunabilecek bir bağlantı ya da kitabın Amazon sayfası oluyor.
+Etkileyici olan bütün kitaplar listeye eklenebilir, pek de etkileyici olmadığı görülen kitaplar da listeden kaldırılabilir. Bağlantı olarak kitabı almak isteyecek kişilerin hem kitabı kolayca satın alabilecekleri hem de kitap hakkında bilgi alabilecekleri bir site kullanmaya çalışıyorum. Eğer kitap henüz Türkçeye çevrilmemişse asıl projedeki bağlantıları bırakıyorum, bu da ya kitabın orijinal sitesi ya kitap ücretsizce internet üzerinden okunabilecek bir bağlantısı ya da kitabın Amazon.com sayfası oluyor.
 
 Gözümden kaçan Türkçe kitapların listeye eklenmesini sağlayabilirsiniz, listeye kitap eklenmesi veya listeden kitap çıkarılması önerilerinde bulunabilirsiniz, lisansı izin veren kitapları Türkçeye çevirebilirsiniz, yayınevlerinin listedeki birkaç kitabı daha çevirmesi için faaliyetlerde bulunabilirsiniz...
 
