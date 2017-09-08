@@ -36,7 +36,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
 4. [C Programlama Dili](http://www.kitapyurdu.com/kitap/default.asp?id=630879) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
-5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
+5. [Algoritmalara Giriş](http://www.dr.com.tr/Kitap/Algoritmalara-Giris/Charles-E-Leiserson/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Matematik/urunno=0000000725327) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
