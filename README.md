@@ -99,7 +99,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 65. [Design Patterns in C#](http://www.amazon.com/Design-Patterns-C-Software/dp/0321718933) - Steve Metsker
 66. [Zen ve Motosiklet Bakım Sanatı - Değerlerin Sorgulanması](http://www.idefix.com/kitap/zen-ve-motosiklet-bakim-sanati-degerlerin-sorgulanmasi-robert-m-pirsig/tanim.asp?sid=Q7THSRLNVZ4TKWIZMYCA) - Robert M. Pirsig - Ayrıntı Yayınları
 67. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) - Alan Cooper
-68. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) - Clay Shirky
+68. [Herkes Örgüt İnternet Gruplarının Gücü](https://www.kitapyurdu.com/kitap/herkes-orgut-amp-internet-gruplarinin-gucu/144121.html) - Clay Shirky
 69. [Programlamanın Taosu](http://www.halitalptekin.com/programlamanin-taosu.html) - Geoffrey James - Emre Sevinç (İleri Seviye)
 70. [Computational Beauty of Nature](https://mitpress.mit.edu/books/computational-beauty-nature) - Gary William Flake
 71. [Philip and Alex's Guide to Web Publishing](http://philip.greenspun.com/panda/) (ücretsiz e-kitap)
