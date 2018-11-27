@@ -64,7 +64,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 30. [Kullanışlı Web Siteleri Yaratma: Web Kullanılabilirliğine Sağduyulu Bir Yaklaşım](http://www.sensible.com/dmmt.html) [2](http://www.kitapyurdu.com/kitap/kullanisli-web-siteleri-yaratma/89507.html) - Steve Krug
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
 32. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
-33. [The Design of Everyday Things](http://www.jnd.org/books/the-design-of-everyday-things.html) by Donald Norman
+33. [Gündelik Şeylerin Tasarımı](https://www.kitapyurdu.com/kitap/gundelik-seylerin-tasarimi/467078.html) - Donald Norman
 34. [Modern C++ Design](http://erdani.com/index.php/books/modern-c-design/) by Andrei Alexandrescu
 35. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky
 36. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) by Kernighan and Pike
