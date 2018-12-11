@@ -33,8 +33,8 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 ## Etkileyici Kitaplar Listesi
 
 1. [Code Complete (2nd edition)](http://cc2e.com/) - Steve McConnell
-2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) - Andrew Hunt and David Thomas
-3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) - Sussman and Abelson (ücretsiz e-kitap)
+2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) - Andrew Hunt ve David Thomas
+3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) - Sussman ve Abelson (ücretsiz e-kitap)
 4. [C Programlama Dili](http://www.kitapyurdu.com/kitap/default.asp?id=630879) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
 5. [Algoritmalara Giriş](http://www.dr.com.tr/Kitap/Algoritmalara-Giris/Charles-E-Leiserson/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Matematik/urunno=0000000725327) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) - the Gang of Four
@@ -49,13 +49,13 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 15. [CODE](http://www.charlespetzold.com/code/) - Charles Petzold
 16. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) - Jon Bentley
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) - Michael C. Feathers
-18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) - Demarco and Lister
+18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) - Demarco ve Lister
 19. [Coders at Work](http://www.codersatwork.com/) - Peter Seibel
 20. [Eminim Şaka Yapıyorsunuz Bay Feynman - Meraklı Bir Şahsiyetin Maceraları](http://www.kitapyurdu.com/kitap/default.asp?id=638286) - Richard Feynman - Alfa Yayınları
 21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) - Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) - Martin Fowler
-23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) - Matthias Felleisen and Daniel P. Friedman
-24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) - Matthias Felleisen and Daniel P. Friedman
+23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) - Matthias Felleisen ve Daniel P. Friedman
+24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) - Matthias Felleisen ve Daniel P. Friedman
 25. [Why's (Poignant) Guide to Ruby](http://poignant.guide/) - why the lucky stiff (ücretsiz PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) - Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) - Eric S. Raymond
@@ -79,7 +79,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 45. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (ücretsiz PDF)
 46. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) - Foley, Dam, Feiner, Hughes
 47. [Thinking in Java](http://www.mindviewinc.com/Books/TIJ4/) - Bruce Eckel
-48. [The Elements of Computing Systems](http://www.nand2tetris.org/) - Noam Nisan and Shimon Schocken(ücretsiz e-kitap)
+48. [The Elements of Computing Systems](http://www.nand2tetris.org/) - Noam Nisan ve Shimon Schocken(ücretsiz e-kitap)
 49. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) - Joshua Kerievsky
 50. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) - Andrew S. Tanenbaum
 51. [The Annotated Turing](http://www.theannotatedturing.com/) - Charles Petzold
@@ -87,9 +87,9 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 53. [The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028) - Christopher Alexander
 54. [The Deadline: A Novel About Project Management](http://tomdemarco.com/Books/deadline.html) - Tom DeMarco
 55. [The C++ Programming Language (3rd edition)](http://www.stroustrup.com/3rd.html) - Stroustrup
-56. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) - Bryant and O'Hallaron
+56. [Computer Systems - A Programmer's Perspective](http://csapp.cs.cmu.edu/) - Bryant ve O'Hallaron
 57. [Agile Principles, Patterns, and Practices in C#](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258) - Robert C. Martin
-58. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) - Steve Freeman and Nat Pryce
+58. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) - Steve Freeman ve Nat Pryce
 59. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) - Brad Abrams
 60. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) - Dr. David West
 61. [Advanced Programming in the UNIX Environment](http://www.cs.stevens.edu/~jschauma/810D/) - W. Richard Stevens
@@ -112,7 +112,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) - Christopher Duncan
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) - Peter Norvig (ücretsiz e-kitap)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
-81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) - Andy Hunt and Dave Thomas
+81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) - Andy Hunt ve Dave Thomas
 82. [Nasıl çözmeli? Matematikte Yeni Bir Boyut](https://www.nadirkitap.com/nasil-cozmeli-matematikte-yeni-bir-boyut-george-polya-kitap4725552.html) - George Polya - Sistem Yayıncılık - Yeni baskısı yok, üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor
 83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) - Adele Goldberg 
 84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) - Michael Howard
