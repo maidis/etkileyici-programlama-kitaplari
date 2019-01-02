@@ -113,7 +113,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) - Peter Norvig (ücretsiz e-kitap)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
 81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) - Andy Hunt ve Dave Thomas
-82. [Nasıl çözmeli? Matematikte Yeni Bir Boyut](https://www.nadirkitap.com/nasil-cozmeli-matematikte-yeni-bir-boyut-george-polya-kitap4725552.html) - George Polya - Sistem Yayıncılık - Yeni baskısı yok, üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor
+82. [Nasıl Çözmeli / Matematiksel Yönteme Yeni Bir Bakış](https://www.kitapyurdu.com/kitap/nasil-cozmeli--matematiksel-yonteme-yeni-bir-bakis/467941.html) - George Polya - Sistem Yayıncılık'tan çıkan sürümünün yeni baskısı artık yok, sadece üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor. 2018'de Tübitak Yayınları'ndan yeni bir baskısı çıktı.
 83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) - Adele Goldberg 
 84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) - Michael Howard
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) - Richard Bird
