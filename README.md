@@ -5,11 +5,7 @@ Burada, Stack Overflow'daki [Her Programcının Okuması Gereken En Etkili Tek K
 
 ## Neden Github'da böyle bir proje?
 
-Çünkü Stack Overflow katedral, GitHub ise pazar ;)
-
-Uzun cevap: Sık sık yukarıdaki listenin olduğu sayfayı ziyaret ediyordum. Zamanla böyle aktif bir konu kapatıldı, kitap listelerine verilen bağlantılar silindi ve her seferinde kopyalama/yapıştırma/arama yapmak zorunda kaldım. Korkarım listeyi tamamen de kaldırabilirler.
-
-Bu yüzden listeyi burada koruyorum :)
+Sık sık yukarıdaki listenin olduğu sayfayı ziyaret ediyordum. Zamanla böyle aktif bir konu kapatıldı, kitap listelerine verilen bağlantılar silindi ve her seferinde kopyalama/yapıştırma/arama yapmak zorunda kaldım. Korkarım listeyi tamamen de kaldırabilirler. Bu yüzden listeyi burada koruyorum :)
 
 
 ## Katkıda bulunun ❤ ❤
@@ -119,7 +115,21 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) - Richard Bird
 86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) - David Thielen
 87. [JUnit in Action](http://www.manning.com/tahchiev/) - Petar Tahchiev
-
+88. [Systemantics: How Systems Work and Especially How They Fail](https://www.amazon.com/Systemantics-Systems-Work-Especially-They/dp/0812906748) - John Gall
+89. [Hacker's Delight](https://www.hackersdelight.org/) - Henry S. Warren
+90. [Database System Concepts](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0078022150/) - Abraham Silberschatz, Henry F. Korth, S. Sudarshan
+91. [A Discipline of Programming](https://www.amazon.com/dp/013215871X/) - Edsger W. Dijkstra
+92. [The Elements of Programming Style](https://www.amazon.com/dp/0070342075/) - Brian W. Kernighan, P. J. Plauger
+93. [Computing Calamities: Lessons Learned from Products, Projects, and Companies That Failed](https://www.amazon.com/dp/0130828629) - Robert L. Glass
+94. [Software Tools](https://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X) - Brian W. Kernighan, P. J. Plauger
+95. [Perfect Software: And Other Illusions about Testing](https://www.amazon.com/dp/0932633692) - Gerald M. Weinberg
+96. [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey Friedl
+97. [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) - Christopher Alexander
+98. [Advanced Programming in the UNIX Environment](https://www.amazon.com/dp/0201433079) - W. Richard Stevens, Stephen A. Rago
+99. [The Art of Prolog](https://www.amazon.com/dp/0262193388/?tag=stackoverflow17-20) - Leon S. Sterling, Ehud Y. Shapiro
+100. [The C++ Standard Library: A Tutorial and Reference](https://www.amazon.com/Standard-Library-Tutorial-Reference-2nd/dp/0321623215) 101. Nicolai M. Josuttis
+102. [Yalnızca Eğlenmek İçin](https://www.kitapyurdu.com/kitap/yalnizca-eglenmek-icin/72683.html) - Linus Torvalds
+103. [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372) - Udi Manber
 
 ## Lisans
 
