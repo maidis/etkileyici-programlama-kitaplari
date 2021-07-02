@@ -28,18 +28,18 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 
 ## Etkileyici Kitaplar Listesi
 
-1. [Code Complete (2nd edition)](http://cc2e.com/) - Steve McConnell
-2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) - Andrew Hunt ve David Thomas
+1. [Code Complete (2nd edition)](https://github.com/islammohamed/books-1/blob/master/software-development/Code%20Complete.pdf) - Steve McConnell (ücretsiz PDF)
+2. [The Pragmatic Programmer](https://github.com/islammohamed/books-1/blob/master/software-development/The%20Pragmatic%20Programmer.pdf) - Andrew Hunt ve David Thomas (ücretsiz PDF)
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) - Sussman ve Abelson (ücretsiz e-kitap)
 4. [C Programlama Dili](http://www.kitapyurdu.com/kitap/default.asp?id=630879) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
 5. [Algoritmalara Giriş](http://www.dr.com.tr/Kitap/Algoritmalara-Giris/Charles-E-Leiserson/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Matematik/urunno=0000000725327) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
-6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) - the Gang of Four
-7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) - Martin Fowler
-8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Fred Brooks
-9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Donald Knuth
+6. [Design Patterns](https://school.hbh7.com/pdfs/RPI/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf) - the Gang of Four (ücretsiz PDF)
+7. [Refactoring: Improving the Design of Existing Code](https://github.com/islammohamed/books-1/blob/master/software-development/Refactoring%20%20Improving%20the%20Design%20of%20Existing%20Code.pdf) - Martin Fowler (ücretsiz PDF)
+8. [The Mythical Man Month](http://www.cesarkallas.net/arquivos/livros/informatica/Addison.Wesley.The.Mythical.Man-Month.Essays.on.Software.Engineering.20th.Anniversary.Edition.pdf) - Fred Brooks (ücretsiz PDF)
+9. [The Art of Computer Programming](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf) - Donald Knuth (ücretsiz PDF)
 10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) - Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
 11. [Gödel, Escher, Bach - Bir Ebedi Gökçe Belik (Lewis Carroll'ın İzinde Zihinlere ve Makinelere Dair Metaforik Bir Füg)](http://www.idefix.com/kitap/godel-escher-bach-bir-ebedi-gokce-belik-douglas-r-hofstadter/tanim.asp?sid=SKTC3J8QHE3E6J3S7C1K) - Douglas Hofstadter - Pinhan Yayıncılık
-12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Robert C. Martin
+12. [Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/islammohamed/books-1/blob/master/software-development/clean-coder-conduct-professional-programmers.pdf) - Robert C. Martin (ücretsiz PDF)
 13. [Effective C++](http://www.aristeia.com/books.html) - Scott Meyers
 14. [More Effective C++](http://www.aristeia.com/books.html) - Scott Meyers
 15. [CODE](http://www.charlespetzold.com/code/) - Charles Petzold
@@ -130,6 +130,9 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 100. [The C++ Standard Library: A Tutorial and Reference](https://www.amazon.com/Standard-Library-Tutorial-Reference-2nd/dp/0321623215) 101. Nicolai M. Josuttis
 102. [Yalnızca Eğlenmek İçin](https://www.kitapyurdu.com/kitap/yalnizca-eglenmek-icin/72683.html) - Linus Torvalds
 103. [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372) - Udi Manber
+104. [The Clean Coder A Code of Conduct For Professional Programmers](https://github.com/islammohamed/books-1/blob/master/software-development/clean-coder-conduct-professional-programmers.pdf) - Robert C. Martin (ücretsiz PDF)
+105. [CSharp In Depth](http://www.tahlildadeh.com/Files/Csharp%20in%20Depth,%203d%20Edition.pdf) - Jon Skeet (ücretsiz PDF)
+106. [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (ücretsiz PDF)
 
 ## Lisans
 
