@@ -131,12 +131,10 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 102. [Yalnızca Eğlenmek İçin](https://www.kitapyurdu.com/kitap/yalnizca-eglenmek-icin/72683.html) - Linus Torvalds
 103. [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372) - Udi Manber
 104. [The Clean Coder A Code of Conduct For Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073#:~:text=In%20The%20Clean%20Coder%3A%20A,coding%20to%20refactoring%20and%20testing.) - Robert C. Martin
-105. [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com.tr/Principles-Patterns-Practices-Robert-Martin/dp/0131857258) - Robert C. Martin
-106. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) - Robert C. Martin
-107. [Clean Agile: Back to Basics](https://www.amazon.com.tr/Clean-Agile-Basics-Robert-Martin/dp/0135781868) - Robert C. Martin
-108. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.tr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Robert C. Martin
-109. [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X) - Robert C. Martin
-110. [CSharp In Depth](https://www.amazon.com.tr/C-Depth-4E-Jon-Skeet/dp/1617294535) - Jon Skeet
+105. [Clean Agile: Back to Basics](https://www.amazon.com.tr/Clean-Agile-Basics-Robert-Martin/dp/0135781868) - Robert C. Martin
+106. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.tr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Robert C. Martin
+107. [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X) - Robert C. Martin
+108. [CSharp In Depth](https://www.amazon.com.tr/C-Depth-4E-Jon-Skeet/dp/1617294535) - Jon Skeet
 
 ## Lisans
 
